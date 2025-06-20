@@ -1,4 +1,4 @@
-# Nöbetçi Eczane Agent
+# Nöbetçi Eczane Mail Agent
 
 Bu proje, [agno agent framework](https://github.com/agno-agi/agno) kullanılarak geliştirilmiştir. Agno, zincirleme araçlar (tool chaining) ve doğal dil ile görev otomasyonu için modern bir Python agent altyapısı sunar. Bu sayede, projenin tüm iş akışı doğal dil promptları ile tetiklenebilir ve agent, arka planda tanımlı araçları (eczane verisi çekme, e-posta gönderme gibi) otomatik olarak zincirler.
 
