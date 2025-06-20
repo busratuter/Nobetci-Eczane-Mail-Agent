@@ -57,6 +57,7 @@ coverage.xml
 .python-version
 
 # dotenv
+!.env.example
 .env
 .env.*
 
@@ -71,4 +72,4 @@ coverage.xml
 .DS_Store
 
 # System
-Thumbs.db 
+Thumbs.db
